@@ -134,6 +134,18 @@ if career =="four":
   turtle.forward(100)
   turtle.right(90)
   turtle.forward(50)
+  turtle.left(50)
+  turtle.forward(47)
+  turtle.forward(100)
+  turtle.right(90)
+  turtle.forward(50)
+  turtle.left(50)
+  turtle.forward(47)
+  turtle.forward(100)
+  turtle.left(90)
+  turtle.forward(50)
+  turtle.right(50)
+  turtle.forward(47)
   
 
     
